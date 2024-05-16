@@ -43,4 +43,11 @@ public class Variables {
 		System.out.println(city);
 		System.out.println(county);
 	}
+
+
+	//Git change
+	public void git(){
+		
+	}
+	
 }
