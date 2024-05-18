@@ -48,6 +48,7 @@ public class Variables {
 	//Git change
 	public void git(){
 		System.out.println("Git Branching");
+		System.out.println("Git another");
 	}
 	
 }
