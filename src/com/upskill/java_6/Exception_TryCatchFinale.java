@@ -56,7 +56,7 @@ public class Exception_TryCatchFinale {
 		}
 				
 		finally {
-			System.out.println("Test Completed");
+			System.out.println("Test is Completed");
 		}
 	}
 }
