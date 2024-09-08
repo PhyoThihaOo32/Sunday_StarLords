@@ -17,15 +17,15 @@ public class Singleton {
 	}
 	
 	protected static void demo(){
-		System.out.println("Demo method for singletone class");
+		System.out.println("Demo method is for singletone class");
 	}
 	
 	protected static void demo2(){
-		System.out.println("Demo 2 method for singletone class");
+		System.out.println("Demo 2 method is for singletone class");
 	}
 	
 	protected static void demo3(){
-		System.out.println("Demo 3 method for singletone class");
+		System.out.println("Demo 3 method is for singletone class");
 	}
 	
 }
